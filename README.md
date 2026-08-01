@@ -2,3 +2,6 @@
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/longshen2020/argo-tunnel/refs/heads/main/tunnel.sh | tr -d '\r')
 ```
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/longshen2020/argo-tunnel/refs/heads/main/2.sh | tr -d '\r')
+```
